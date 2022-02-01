@@ -1,2 +1,2 @@
 # Finance Calculator for android
-- use ReactNative
+- use ReactNative, js
